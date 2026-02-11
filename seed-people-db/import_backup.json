@@ -1,0 +1,3428 @@
+[
+  {
+    "slug": "khabane-lame-cf6cd6",
+    "name": "Khabane lame",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/KhabyLame.jpg/500px-KhabyLame.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/KhabyLame.jpg/500px-KhabyLame.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "tiktok": 160400000
+    }
+  },
+  {
+    "slug": "charli-damelio-1b112c",
+    "name": "charli d'amelio",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "women",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Charli_D%27Amelio_3.jpg/500px-Charli_D%27Amelio_3.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Charli_D%27Amelio_3.jpg/500px-Charli_D%27Amelio_3.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "tiktok": 155800000
+    }
+  },
+  {
+    "slug": "mrbeast-ca3957",
+    "name": "MrBeast",
+    "profession": "youtuber",
+    "category": "youtuber",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MrBeast_2023_%28cropped%29.jpg/500px-MrBeast_2023_%28cropped%29.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MrBeast_2023_%28cropped%29.jpg/500px-MrBeast_2023_%28cropped%29.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "tiktok": 124600000
+    }
+  },
+  {
+    "slug": "bella-poarch-c054bc",
+    "name": "Bella Poarch",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "women",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 92700000
+    }
+  },
+  {
+    "slug": "addison-rae-000bcd",
+    "name": "Addison Rae",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "women",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/LanaWembley030725-144_-_54640470921_%28Addison_Rae%29.jpg/500px-LanaWembley030725-144_-_54640470921_%28Addison_Rae%29.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/LanaWembley030725-144_-_54640470921_%28Addison_Rae%29.jpg/500px-LanaWembley030725-144_-_54640470921_%28Addison_Rae%29.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "tiktok": 88300000
+    }
+  },
+  {
+    "slug": "zach-king-c95892",
+    "name": "Zach King",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Zach_King_Photo.jpg/500px-Zach_King_Photo.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Zach_King_Photo.jpg/500px-Zach_King_Photo.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "tiktok": 84300000
+    }
+  },
+  {
+    "slug": "willie-salim-ddcc09",
+    "name": "WILLIE SALIM",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 83900000
+    }
+  },
+  {
+    "slug": "kimberly-loaiza-9f249a",
+    "name": "Kimberly Loaiza",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "women",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kimberly_Loaiza.jpg/500px-Kimberly_Loaiza.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kimberly_Loaiza.jpg/500px-Kimberly_Loaiza.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "tiktok": 83700000
+    }
+  },
+  {
+    "slug": "the-rock-c89ca6",
+    "name": "The Rock",
+    "profession": "actor",
+    "category": "sports",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dwayne_Johnson-1809_%28cropped%29.jpg/500px-Dwayne_Johnson-1809_%28cropped%29.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dwayne_Johnson-1809_%28cropped%29.jpg/500px-Dwayne_Johnson-1809_%28cropped%29.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "tiktok": 79800000
+    }
+  },
+  {
+    "slug": "will-smith-f2dd4e",
+    "name": "Will Smith",
+    "profession": "actor",
+    "category": "actor",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%2848834070763%29_%28cropped%29.jpg/500px-TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%2848834070763%29_%28cropped%29.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%2848834070763%29_%28cropped%29.jpg/500px-TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%2848834070763%29_%28cropped%29.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "tiktok": 78900000
+    }
+  },
+  {
+    "slug": "domelipa-f8e700",
+    "name": "domelipa",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "women",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 76000000
+    }
+  },
+  {
+    "slug": "billie-eilish-b17fd6",
+    "name": "BILLIE EILISH",
+    "profession": "musician",
+    "category": "influencer",
+    "gender": "women",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/BillieEilishO2140725-39_-_54665577407_%28cropped%29.jpg/500px-BillieEilishO2140725-39_-_54665577407_%28cropped%29.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/BillieEilishO2140725-39_-_54665577407_%28cropped%29.jpg/500px-BillieEilishO2140725-39_-_54665577407_%28cropped%29.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "tiktok": 74300000
+    }
+  },
+  {
+    "slug": "cznburak-589381",
+    "name": "cznburak",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 74100000
+    }
+  },
+  {
+    "slug": "bts-15b929",
+    "name": "BTS",
+    "profession": "musician",
+    "category": "influencer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/BTS_during_a_White_House_press_conference_May_31%2C_2022_%28cropped%29.jpg/500px-BTS_during_a_White_House_press_conference_May_31%2C_2022_%28cropped%29.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/BTS_during_a_White_House_press_conference_May_31%2C_2022_%28cropped%29.jpg/500px-BTS_during_a_White_House_press_conference_May_31%2C_2022_%28cropped%29.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "tiktok": 73900000
+    }
+  },
+  {
+    "slug": "vilmei-2d9934",
+    "name": "VILMEI",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 68000000
+    }
+  },
+  {
+    "slug": "jason-derulo-53e873",
+    "name": "Jason Derulo",
+    "profession": "musician",
+    "category": "influencer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Jason_Derulo_in_2022_%28cropped%29.jpg/500px-Jason_Derulo_in_2022_%28cropped%29.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Jason_Derulo_in_2022_%28cropped%29.jpg/500px-Jason_Derulo_in_2022_%28cropped%29.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "tiktok": 65700000
+    }
+  },
+  {
+    "slug": "kylie-jenner-fa8932",
+    "name": "Kylie Jenner",
+    "profession": "influencer",
+    "category": "influencer",
+    "gender": "women",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Kylie_Jenner1_%28cropped%29.png/500px-Kylie_Jenner1_%28cropped%29.png",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Kylie_Jenner1_%28cropped%29.png/500px-Kylie_Jenner1_%28cropped%29.png",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "tiktok": 59700000
+    }
+  },
+  {
+    "slug": "selena-gomez-156022",
+    "name": "Selena Gomez",
+    "profession": "actress",
+    "category": "actress",
+    "gender": "women",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Selena_Gomez_at_the_2024_Toronto_International_Film_Festival_10_%28cropped%29.jpg/500px-Selena_Gomez_at_the_2024_Toronto_International_Film_Festival_10_%28cropped%29.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Selena_Gomez_at_the_2024_Toronto_International_Film_Festival_10_%28cropped%29.jpg/500px-Selena_Gomez_at_the_2024_Toronto_International_Film_Festival_10_%28cropped%29.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "tiktok": 59100000
+    }
+  },
+  {
+    "slug": "yz-0be5fd",
+    "name": "YZ",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 57200000
+    }
+  },
+  {
+    "slug": "karol-g-0b6180",
+    "name": "Karol G",
+    "profession": "musician",
+    "category": "influencer",
+    "gender": "women",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 55400000
+    }
+  },
+  {
+    "slug": "bayashi-554dfd",
+    "name": "Bayashi",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 55000000
+    }
+  },
+  {
+    "slug": "omarito-dc5aa8",
+    "name": "omari.to",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 54500000
+    }
+  },
+  {
+    "slug": "dixie-damelio-fdd32a",
+    "name": "Dixie D'Amelio",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "women",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Dixie_D%27Amelio_2.jpg/500px-Dixie_D%27Amelio_2.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Dixie_D%27Amelio_2.jpg/500px-Dixie_D%27Amelio_2.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "tiktok": 54300000
+    }
+  },
+  {
+    "slug": "homa-085a65",
+    "name": "HOMA",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 54100000
+    }
+  },
+  {
+    "slug": "spencer-x-55069c",
+    "name": "Spencer X",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 54000000
+    }
+  },
+  {
+    "slug": "loren-gray-b504ca",
+    "name": "Loren Gray",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "women",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/2023_-_Centre_Stage_SAM_9438_%2853331112032%29_%28cropped%29.jpg/500px-2023_-_Centre_Stage_SAM_9438_%2853331112032%29_%28cropped%29.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/2023_-_Centre_Stage_SAM_9438_%2853331112032%29_%28cropped%29.jpg/500px-2023_-_Centre_Stage_SAM_9438_%2853331112032%29_%28cropped%29.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "tiktok": 53000000
+    }
+  },
+  {
+    "slug": "rose-a84619",
+    "name": "ROSE",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 52000000
+    }
+  },
+  {
+    "slug": "ria-ricis-7bd0bf",
+    "name": "Ria Ricis",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 51800000
+    }
+  },
+  {
+    "slug": "blackpink-8f8c70",
+    "name": "BLACKPINK",
+    "profession": "musician",
+    "category": "influencer",
+    "gender": "women",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/20240809_Blackpink_Pink_Carpet_09.png/500px-20240809_Blackpink_Pink_Carpet_09.png",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/20240809_Blackpink_Pink_Carpet_09.png/500px-20240809_Blackpink_Pink_Carpet_09.png",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "tiktok": 51400000
+    }
+  },
+  {
+    "slug": "ishowspeed-62e956",
+    "name": "IShowSpeed",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/IShowSpeed_at_Chinatown_%28Portrait%29_04.jpg/500px-IShowSpeed_at_Chinatown_%28Portrait%29_04.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/IShowSpeed_at_Chinatown_%28Portrait%29_04.jpg/500px-IShowSpeed_at_Chinatown_%28Portrait%29_04.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "tiktok": 47800000,
+      "twitch": 3370000
+    }
+  },
+  {
+    "slug": "brent-rivera-df7bff",
+    "name": "Brent Rivera",
+    "profession": "youtuber",
+    "category": "youtuber",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Brent_Rivera_2020_%28cropped%29_5.jpg/500px-Brent_Rivera_2020_%28cropped%29_5.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Brent_Rivera_2020_%28cropped%29_5.jpg/500px-Brent_Rivera_2020_%28cropped%29_5.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "tiktok": 50500000
+    }
+  },
+  {
+    "slug": "kris-hc-d0b95b",
+    "name": "Kris HC",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 50500000
+    }
+  },
+  {
+    "slug": "michael-le-acff13",
+    "name": "Michael Le",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 50200000
+    }
+  },
+  {
+    "slug": "carlos-feria-ba881d",
+    "name": "Carlos Feria",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 47200000
+    }
+  },
+  {
+    "slug": "nianaguerrero-3786d2",
+    "name": "nianaguerrero",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 46200000
+    }
+  },
+  {
+    "slug": "jojo-siwa-5ea4a6",
+    "name": "JoJo Siwa",
+    "profession": "tiktoker",
+    "category": "internet_personality",
+    "gender": "women",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jojo_Siwa_on_the_iHeart_Awards_2024_01.jpg/500px-Jojo_Siwa_on_the_iHeart_Awards_2024_01.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jojo_Siwa_on_the_iHeart_Awards_2024_01.jpg/500px-Jojo_Siwa_on_the_iHeart_Awards_2024_01.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "tiktok": 46100000
+    }
+  },
+  {
+    "slug": "pongamoslo-a-prueba-1f0216",
+    "name": "Pongamoslo a Prueba",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 46000000
+    }
+  },
+  {
+    "slug": "katteyes-0f4bfb",
+    "name": "Katteyes",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 45500000
+    }
+  },
+  {
+    "slug": "brooke-monk-7bb53d",
+    "name": "Brooke Monk",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "women",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 44700000
+    }
+  },
+  {
+    "slug": "noelgoescrazy-7b8c30",
+    "name": "noelgoescrazy",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 44400000
+    }
+  },
+  {
+    "slug": "junya-32f269",
+    "name": "Junya",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 44000000
+    }
+  },
+  {
+    "slug": "joe-albanese-1fd463",
+    "name": "Joe Albanese",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 44000000
+    }
+  },
+  {
+    "slug": "tuzelity-14bdd5",
+    "name": "tuzelity",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 43100000
+    }
+  },
+  {
+    "slug": "shakira-a78f99",
+    "name": "Shakira",
+    "profession": "musician",
+    "category": "influencer",
+    "gender": "women",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg/500px-2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg/500px-2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "tiktok": 42600000
+    }
+  },
+  {
+    "slug": "virginia-fonseca-4237ef",
+    "name": "Virginia Fonseca",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 42000000
+    }
+  },
+  {
+    "slug": "avani-gregg-84b8e7",
+    "name": "Avani Gregg",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "women",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 41500000
+    }
+  },
+  {
+    "slug": "bigchungus-6385e8",
+    "name": "BigChungus",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 41200000
+    }
+  },
+  {
+    "slug": "gordon-ramsay-f84811",
+    "name": "Gordon Ramsay",
+    "profession": "internet_personality",
+    "category": "internet_personality",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gordon_Ramsay_%28cropped%29.jpg/500px-Gordon_Ramsay_%28cropped%29.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gordon_Ramsay_%28cropped%29.jpg/500px-Gordon_Ramsay_%28cropped%29.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "tiktok": 41000000
+    }
+  },
+  {
+    "slug": "mia-khalifa-583908",
+    "name": "Mia Khalifa",
+    "profession": "influencer",
+    "category": "internet_personality",
+    "gender": "women",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mia_Khalifa_in_2019.png",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mia_Khalifa_in_2019.png",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "tiktok": 41000000
+    }
+  },
+  {
+    "slug": "ruben-tuesta-b61bf5",
+    "name": "Ruben Tuesta",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 40700000
+    }
+  },
+  {
+    "slug": "james-charles-edd116",
+    "name": "James Charles",
+    "profession": "influencer",
+    "category": "influencer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 40600000
+    }
+  },
+  {
+    "slug": "anokhina-liza-a31c83",
+    "name": "Anokhina Liza",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 40500000
+    }
+  },
+  {
+    "slug": "lucas-and-marcus-3469a9",
+    "name": "Lucas and Marcus",
+    "profession": "youtuber",
+    "category": "youtuber",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 40300000
+    }
+  },
+  {
+    "slug": "ariana-grande-86e675",
+    "name": "Ariana Grande",
+    "profession": "musician",
+    "category": "influencer",
+    "gender": "women",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ariana_Grande_promoting_Wicked_%282024%29.jpg/500px-Ariana_Grande_promoting_Wicked_%282024%29.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ariana_Grande_promoting_Wicked_%282024%29.jpg/500px-Ariana_Grande_promoting_Wicked_%282024%29.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "tiktok": 40000000
+    }
+  },
+  {
+    "slug": "montpantoja-a30c99",
+    "name": "Montpantoja",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 39200000
+    }
+  },
+  {
+    "slug": "keemokazi-63451d",
+    "name": "KEEMOKAZI",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 38800000
+    }
+  },
+  {
+    "slug": "surthycooks-7cdb50",
+    "name": "Surthycooks",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 38800000
+    }
+  },
+  {
+    "slug": "fujiiian-60fbda",
+    "name": "Fujiiian",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 38400000
+    }
+  },
+  {
+    "slug": "hotspanish-124afc",
+    "name": "HotSpanish",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 38200000
+    }
+  },
+  {
+    "slug": "itsmichhh-4a937d",
+    "name": "itsmichhh",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 37800000
+    }
+  },
+  {
+    "slug": "emir-abdul-gani-44ced9",
+    "name": "Emir Abdul Gani",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 37600000
+    }
+  },
+  {
+    "slug": "scott-54c569",
+    "name": "Scott",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 37200000
+    }
+  },
+  {
+    "slug": "babyariel-6ff867",
+    "name": "BabyAriel",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 36700000
+    }
+  },
+  {
+    "slug": "sabrina-carpenter-3e0098",
+    "name": "Sabrina Carpenter",
+    "profession": "musician",
+    "category": "influencer",
+    "gender": "women",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Primavera2025_%28139_of_182%29_%2854574520207%29_%28cropped%29.jpg/500px-Primavera2025_%28139_of_182%29_%2854574520207%29_%28cropped%29.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Primavera2025_%28139_of_182%29_%2854574520207%29_%28cropped%29.jpg/500px-Primavera2025_%28139_of_182%29_%2854574520207%29_%28cropped%29.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "tiktok": 36600000
+    }
+  },
+  {
+    "slug": "spider-slack-f27b92",
+    "name": "spider_slack",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 36500000
+    }
+  },
+  {
+    "slug": "bad-bunny-3bb8ac",
+    "name": "Bad Bunny",
+    "profession": "musician",
+    "category": "influencer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg/500px-Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg/500px-Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "tiktok": 36400000
+    }
+  },
+  {
+    "slug": "wigofellas-be66c2",
+    "name": "wigofellas",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 36100000
+    }
+  },
+  {
+    "slug": "borrego-f4f37d",
+    "name": "BORREGO",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 36100000
+    }
+  },
+  {
+    "slug": "brianda-e305af",
+    "name": "BRIANDA",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 36000000
+    }
+  },
+  {
+    "slug": "ondy-mikula-c1b454",
+    "name": "ondy mikula",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 35800000
+    }
+  },
+  {
+    "slug": "gil-croes-4b9d87",
+    "name": "Gil Croes",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 35500000
+    }
+  },
+  {
+    "slug": "enejota-d36ca4",
+    "name": "Enejota",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 35400000
+    }
+  },
+  {
+    "slug": "arnaldo-mangini-819bae",
+    "name": "Arnaldo Mangini",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 35300000
+    }
+  },
+  {
+    "slug": "benji-krol-2654e2",
+    "name": "Benji Krol",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 35100000
+    }
+  },
+  {
+    "slug": "alejandro-nieto-615672",
+    "name": "Alejandro Nieto",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 34900000
+    }
+  },
+  {
+    "slug": "stray-kids-281e88",
+    "name": "Stray Kids",
+    "profession": "musician",
+    "category": "influencer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 34700000
+    }
+  },
+  {
+    "slug": "bader-al-safar-eb592a",
+    "name": "Bader Al Safar",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 34700000
+    }
+  },
+  {
+    "slug": "kevin-hart-232a16",
+    "name": "Kevin Hart",
+    "profession": "actor",
+    "category": "actor",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kevin_Hart_2014_%28cropped_2%29.jpg/500px-Kevin_Hart_2014_%28cropped_2%29.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kevin_Hart_2014_%28cropped_2%29.jpg/500px-Kevin_Hart_2014_%28cropped_2%29.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "tiktok": 34200000
+    }
+  },
+  {
+    "slug": "kunno-3eb2a6",
+    "name": "Kunno",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 34100000
+    }
+  },
+  {
+    "slug": "kyle-thomas-8e8568",
+    "name": "kyle thomas",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 34100000
+    }
+  },
+  {
+    "slug": "devon-rodriguez-ce3c61",
+    "name": "Devon Rodriguez",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 34100000
+    }
+  },
+  {
+    "slug": "kirya-kolesnikov-2b4c07",
+    "name": "Kirya Kolesnikov",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 34000000
+    }
+  },
+  {
+    "slug": "dorisjocelyn-f32d21",
+    "name": "DorisJocelyn",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "tiktok": 33700000
+    }
+  },
+  {
+    "slug": "taylor-swift-9485eb",
+    "name": "Taylor Swift",
+    "profession": "musician",
+    "category": "influencer",
+    "gender": "women",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png/500px-Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png/500px-Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "tiktok": 33300000
+    }
+  },
+  {
+    "slug": "lele-pons-5d830b",
+    "name": "Lele Pons",
+    "profession": "tiktoker",
+    "category": "tiktoker",
+    "gender": "women",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Lele_Pons_2019_by_Glenn_Francis_%28cropped%29.jpg/500px-Lele_Pons_2019_by_Glenn_Francis_%28cropped%29.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Lele_Pons_2019_by_Glenn_Francis_%28cropped%29.jpg/500px-Lele_Pons_2019_by_Glenn_Francis_%28cropped%29.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "tiktok": 33100000
+    }
+  },
+  {
+    "slug": "kaicenat-ee5be7",
+    "name": "KaiCenat",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kai_Cenat_2023_%28cropped%29.jpg/500px-Kai_Cenat_2023_%28cropped%29.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kai_Cenat_2023_%28cropped%29.jpg/500px-Kai_Cenat_2023_%28cropped%29.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "twitch": 20170000
+    }
+  },
+  {
+    "slug": "ibai-a425a9",
+    "name": "ibai",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/As%C3%AD_fue_la_Presentaci%C3%B3n_de_la_Velada_del_A%C3%B1o_5_24.jpg/500px-As%C3%AD_fue_la_Presentaci%C3%B3n_de_la_Velada_del_A%C3%B1o_5_24.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/As%C3%AD_fue_la_Presentaci%C3%B3n_de_la_Velada_del_A%C3%B1o_5_24.jpg/500px-As%C3%AD_fue_la_Presentaci%C3%B3n_de_la_Velada_del_A%C3%B1o_5_24.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "twitch": 19760000
+    }
+  },
+  {
+    "slug": "ninja-7ed7bc",
+    "name": "Ninja",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Krystalogy%2C_Jess%2C_Ninja%2C_and_Typical_Gamer_relaxing_in_the_State_Farm_Gamerhood_%2852899874282%29_%28cropped%29_3.jpg/500px-Krystalogy%2C_Jess%2C_Ninja%2C_and_Typical_Gamer_relaxing_in_the_State_Farm_Gamerhood_%2852899874282%29_%28cropped%29_3.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Krystalogy%2C_Jess%2C_Ninja%2C_and_Typical_Gamer_relaxing_in_the_State_Farm_Gamerhood_%2852899874282%29_%28cropped%29_3.jpg/500px-Krystalogy%2C_Jess%2C_Ninja%2C_and_Typical_Gamer_relaxing_in_the_State_Farm_Gamerhood_%2852899874282%29_%28cropped%29_3.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "twitch": 19260000
+    }
+  },
+  {
+    "slug": "auronplay-e7529f",
+    "name": "auronplay",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 16980000
+    }
+  },
+  {
+    "slug": "rubius-e94a87",
+    "name": "Rubius",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 16160000
+    }
+  },
+  {
+    "slug": "xqc-bea112",
+    "name": "xQc",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/XQc_July_4_2023.jpg/500px-XQc_July_4_2023.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/XQc_July_4_2023.jpg/500px-XQc_July_4_2023.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "twitch": 12280000,
+      "kick": 1037013
+    }
+  },
+  {
+    "slug": "easyliker-4de7c2",
+    "name": "easyliker",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 12260000
+    }
+  },
+  {
+    "slug": "thegrefg-d766e2",
+    "name": "TheGrefg",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 12250000
+    }
+  },
+  {
+    "slug": "juansguarnizo-d8f7d2",
+    "name": "juansguarnizo",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 11610000
+    }
+  },
+  {
+    "slug": "tfue-733fb6",
+    "name": "Tfue",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Tfue.png/500px-Tfue.png",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Tfue.png/500px-Tfue.png",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "twitch": 11470000
+    }
+  },
+  {
+    "slug": "shroud-1966de",
+    "name": "shroud",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Shroud_cropped.jpg/500px-Shroud_cropped.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Shroud_cropped.jpg/500px-Shroud_cropped.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "twitch": 11320000
+    }
+  },
+  {
+    "slug": "elspreen-dc35c0",
+    "name": "ElSpreen",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 9700000,
+      "kick": 1377892
+    }
+  },
+  {
+    "slug": "elmariana-0b777e",
+    "name": "ElMariana",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 10820000
+    }
+  },
+  {
+    "slug": "pokimane-17bed7",
+    "name": "pokimane",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "women",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Pokimane_sig.svg/500px-Pokimane_sig.svg.png",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Pokimane_sig.svg/500px-Pokimane_sig.svg.png",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "twitch": 9380000
+    }
+  },
+  {
+    "slug": "sodapoppin-28b08c",
+    "name": "sodapoppin",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 8970000
+    }
+  },
+  {
+    "slug": "adinross-b0ea51",
+    "name": "AdinRoss",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Adin_Ross_in_2025.png/500px-Adin_Ross_in_2025.png",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Adin_Ross_in_2025.png/500px-Adin_Ross_in_2025.png",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "twitch": 7030000,
+      "kick": 1919577
+    }
+  },
+  {
+    "slug": "jynxzi-3c65e0",
+    "name": "Jynxzi",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 8870000
+    }
+  },
+  {
+    "slug": "clix-cef252",
+    "name": "Clix",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 8500000
+    }
+  },
+  {
+    "slug": "caseoh-c91545",
+    "name": "caseoh_",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 8110000
+    }
+  },
+  {
+    "slug": "alanzoka-58f37a",
+    "name": "alanzoka",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 7930000
+    }
+  },
+  {
+    "slug": "timthetatman-dc4b5e",
+    "name": "TimTheTatman",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 7610000
+    }
+  },
+  {
+    "slug": "myth-b4d268",
+    "name": "Myth",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 7290000
+    }
+  },
+  {
+    "slug": "tommyinnit-7ff0ed",
+    "name": "tommyinnit",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 7250000
+    }
+  },
+  {
+    "slug": "sypherpk-201e0e",
+    "name": "SypherPK",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 7240000
+    }
+  },
+  {
+    "slug": "mongraal-d3782f",
+    "name": "Mongraal",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 7200000
+    }
+  },
+  {
+    "slug": "arigameplays-f379d2",
+    "name": "AriGameplays",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "women",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 7100000
+    }
+  },
+  {
+    "slug": "loud-coringa-6f01d0",
+    "name": "loud_coringa",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 7000000
+    }
+  },
+  {
+    "slug": "rivers-gg-155806",
+    "name": "rivers_gg",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 6790000
+    }
+  },
+  {
+    "slug": "nickmercs-48bea1",
+    "name": "NICKMERCS",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 6740000
+    }
+  },
+  {
+    "slug": "robleis-2492c7",
+    "name": "Robleis",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 5910000,
+      "kick": 787637
+    }
+  },
+  {
+    "slug": "summit1g-c3b6ad",
+    "name": "summit1g",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 6380000
+    }
+  },
+  {
+    "slug": "amouranth-735d7b",
+    "name": "AMOURANTH",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "women",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Amouranth_at_DreamHack_Atlanta_2024.jpg/500px-Amouranth_at_DreamHack_Atlanta_2024.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Amouranth_at_DreamHack_Atlanta_2024.jpg/500px-Amouranth_at_DreamHack_Atlanta_2024.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "twitch": 6100000
+    }
+  },
+  {
+    "slug": "dream-b57c66",
+    "name": "Dream",
+    "profession": "streamer",
+    "category": "youtuber",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/I_went_to_VidCon_2023_and_it_was..._mid_14-5_screenshot_%28cropped%29.jpg/500px-I_went_to_VidCon_2023_and_it_was..._mid_14-5_screenshot_%28cropped%29.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/I_went_to_VidCon_2023_and_it_was..._mid_14-5_screenshot_%28cropped%29.jpg/500px-I_went_to_VidCon_2023_and_it_was..._mid_14-5_screenshot_%28cropped%29.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "twitch": 6070000
+    }
+  },
+  {
+    "slug": "squeezie-8f2292",
+    "name": "Squeezie",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 5810000
+    }
+  },
+  {
+    "slug": "nickeh30-3141a5",
+    "name": "NickEh30",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 5790000
+    }
+  },
+  {
+    "slug": "moistcr1tikal-331819",
+    "name": "moistcr1tikal",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cr1TiKaL_in_2022.jpg/500px-Cr1TiKaL_in_2022.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cr1TiKaL_in_2022.jpg/500px-Cr1TiKaL_in_2022.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "twitch": 5760000
+    }
+  },
+  {
+    "slug": "montanablack88-585cd6",
+    "name": "MontanaBlack88",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 5740000
+    }
+  },
+  {
+    "slug": "elded-e8c7bc",
+    "name": "elded",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 5690000
+    }
+  },
+  {
+    "slug": "elraenn-89c66d",
+    "name": "Elraenn",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 4790000,
+      "kick": 784289
+    }
+  },
+  {
+    "slug": "bugha-e56c2a",
+    "name": "Bugha",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 5500000
+    }
+  },
+  {
+    "slug": "loltyler1-7903da",
+    "name": "loltyler1",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 5460000
+    }
+  },
+  {
+    "slug": "tubbo-0fefd7",
+    "name": "Tubbo",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 5200000
+    }
+  },
+  {
+    "slug": "carreraaa-f91985",
+    "name": "Carreraaa",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 4960000
+    }
+  },
+  {
+    "slug": "quackity-8ccbf0",
+    "name": "Quackity",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 4850000
+    }
+  },
+  {
+    "slug": "buster-c3c5ce",
+    "name": "buster",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 4820000
+    }
+  },
+  {
+    "slug": "georgenotfound-2daab5",
+    "name": "GeorgeNotFound",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 4810000
+    }
+  },
+  {
+    "slug": "slakuntv-482871",
+    "name": "SLAKUNTV",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 4720000
+    }
+  },
+  {
+    "slug": "dakotaz-050f26",
+    "name": "Dakotaz",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 4640000
+    }
+  },
+  {
+    "slug": "mrsavage-4aa325",
+    "name": "MrSavage",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 4630000
+    }
+  },
+  {
+    "slug": "gotaga-3e94e3",
+    "name": "Gotaga",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 4600000
+    }
+  },
+  {
+    "slug": "illojuan-b8c667",
+    "name": "IlloJuan",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 4510000
+    }
+  },
+  {
+    "slug": "tenz-69cd5c",
+    "name": "TenZ",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 4510000
+    }
+  },
+  {
+    "slug": "stableronaldo-7129a1",
+    "name": "stableronaldo",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 4450000
+    }
+  },
+  {
+    "slug": "drlupo-4d4bf7",
+    "name": "DrLupo",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 4410000
+    }
+  },
+  {
+    "slug": "elxokas-b55d9f",
+    "name": "elxokas",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 4390000
+    }
+  },
+  {
+    "slug": "wilbursoot-b5106d",
+    "name": "WilburSoot",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 4350000
+    }
+  },
+  {
+    "slug": "gaules-066576",
+    "name": "Gaules",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 4320000
+    }
+  },
+  {
+    "slug": "its-j0schi-29e25f",
+    "name": "Its_J0schi",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 4310000
+    }
+  },
+  {
+    "slug": "ranboolive-e6e090",
+    "name": "RanbooLive",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 4300000
+    }
+  },
+  {
+    "slug": "quiriify-f35ce5",
+    "name": "quiriify",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 4300000
+    }
+  },
+  {
+    "slug": "philza-aea04b",
+    "name": "Philza",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 4290000
+    }
+  },
+  {
+    "slug": "missasinfonia-73e691",
+    "name": "MissaSinfonia",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 4190000
+    }
+  },
+  {
+    "slug": "symfuhny-ffccad",
+    "name": "Symfuhny",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 4110000
+    }
+  },
+  {
+    "slug": "benjyfishy-adde54",
+    "name": "benjyfishy",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 4100000
+    }
+  },
+  {
+    "slug": "s1mple-301ef4",
+    "name": "s1mple",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Oleksandr_s1mple_Kostyliev.jpg/500px-Oleksandr_s1mple_Kostyliev.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Oleksandr_s1mple_Kostyliev.jpg/500px-Oleksandr_s1mple_Kostyliev.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "twitch": 4080000
+    }
+  },
+  {
+    "slug": "daequanwoco-2f0c4a",
+    "name": "DaequanWoco",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 4060000
+    }
+  },
+  {
+    "slug": "casimito-5620e0",
+    "name": "casimito",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 3940000
+    }
+  },
+  {
+    "slug": "edu90-1c95fc",
+    "name": "edu90",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 3880000
+    }
+  },
+  {
+    "slug": "trymacs-9c991e",
+    "name": "Trymacs",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 3880000
+    }
+  },
+  {
+    "slug": "sykkuno-c6b910",
+    "name": "Sykkuno",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 3880000
+    }
+  },
+  {
+    "slug": "faker-5e4291",
+    "name": "Faker",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Faker_2020_interview.jpg/500px-Faker_2020_interview.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Faker_2020_interview.jpg/500px-Faker_2020_interview.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "twitch": 3860000
+    }
+  },
+  {
+    "slug": "coscu-fadbcd",
+    "name": "coscu",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 3850000
+    }
+  },
+  {
+    "slug": "nobru-e508b9",
+    "name": "NOBRU",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 3790000
+    }
+  },
+  {
+    "slug": "castro-1021-5cf0ea",
+    "name": "Castro_1021",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 3720000
+    }
+  },
+  {
+    "slug": "westcol-f17f15",
+    "name": "WestCOL",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "kick": 3672680
+    }
+  },
+  {
+    "slug": "paulinholokobr-76b5aa",
+    "name": "PaulinhoLOKObr",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 3630000
+    }
+  },
+  {
+    "slug": "bratishkinoff-951543",
+    "name": "bratishkinoff",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 3610000
+    }
+  },
+  {
+    "slug": "ludwig-ea09ee",
+    "name": "Ludwig",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ludwig_and_Typical_Gamer_%2852900893088%29_%28Ludwig_crop%29.jpg/500px-Ludwig_and_Typical_Gamer_%2852900893088%29_%28Ludwig_crop%29.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ludwig_and_Typical_Gamer_%2852900893088%29_%28Ludwig_crop%29.jpg/500px-Ludwig_and_Typical_Gamer_%2852900893088%29_%28Ludwig_crop%29.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "twitch": 3600000
+    }
+  },
+  {
+    "slug": "cellbit-f1c0a6",
+    "name": "Cellbit",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 3570000
+    }
+  },
+  {
+    "slug": "fanum-ad57fc",
+    "name": "Fanum",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 3550000
+    }
+  },
+  {
+    "slug": "asmongold-b80819",
+    "name": "Asmongold",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Asmongold_in_2022.jpg/500px-Asmongold_in_2022.jpg",
+    "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Asmongold_in_2022.jpg/500px-Asmongold_in_2022.jpg",
+    "headshot_source": "wikipedia",
+    "headshot_license": "CC BY-SA 3.0",
+    "headshot_attribution": "Wikimedia Commons",
+    "platform_handles": {
+      "twitch": 3550000
+    }
+  },
+  {
+    "slug": "karljacobs-2ab363",
+    "name": "karljacobs",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 3540000
+    }
+  },
+  {
+    "slug": "staryuuki-130700",
+    "name": "Staryuuki",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "women",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 3530000
+    }
+  },
+  {
+    "slug": "fernanfloo-585721",
+    "name": "Fernanfloo",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 3460000
+    }
+  },
+  {
+    "slug": "aminematue-ea65f4",
+    "name": "aminematue",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 3360000
+    }
+  },
+  {
+    "slug": "duke-4eab61",
+    "name": "Duke",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 3350000
+    }
+  },
+  {
+    "slug": "tarik-5a744f",
+    "name": "tarik",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 3310000
+    }
+  },
+  {
+    "slug": "xcry-8092a8",
+    "name": "xCry",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 3260000
+    }
+  },
+  {
+    "slug": "agent00-3c3972",
+    "name": "Agent00",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "men",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 3220000
+    }
+  },
+  {
+    "slug": "alexby11-15e36e",
+    "name": "Alexby11",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 3220000
+    }
+  },
+  {
+    "slug": "gabelulz-a4a6db",
+    "name": "gabelulz",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "twitch": 3200000
+    }
+  },
+  {
+    "slug": "mrstiventc-9e19d1",
+    "name": "MrStivenTC",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "kick": 1638642
+    }
+  },
+  {
+    "slug": "davooxeneize-156098",
+    "name": "davooxeneize",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "kick": 1521611
+    }
+  },
+  {
+    "slug": "sxb-07f80b",
+    "name": "SXB",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "kick": 1496300
+    }
+  },
+  {
+    "slug": "drb7h-de7123",
+    "name": "drb7h",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "kick": 1368281
+    }
+  },
+  {
+    "slug": "lacobraaa-eaa8f9",
+    "name": "lacobraaa",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "kick": 1253047
+    }
+  },
+  {
+    "slug": "rraenee-9b2490",
+    "name": "RRaenee",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "kick": 1167679
+    }
+  },
+  {
+    "slug": "atro-8de8da",
+    "name": "Atro",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "kick": 1034670
+    }
+  },
+  {
+    "slug": "elzeein-8b8859",
+    "name": "Elzeein",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "kick": 908775
+    }
+  },
+  {
+    "slug": "mernuel-b0a50c",
+    "name": "Mernuel",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "kick": 889670
+    }
+  },
+  {
+    "slug": "ilyaselmaliki-eda29b",
+    "name": "ilyaselmaliki",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "kick": 849926
+    }
+  },
+  {
+    "slug": "mellstroy475-a19331",
+    "name": "Mellstroy475",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "kick": 840954
+    }
+  },
+  {
+    "slug": "rdjavi-cf9c94",
+    "name": "rdJavi",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "kick": 832177
+    }
+  },
+  {
+    "slug": "absi-c6c65f",
+    "name": "Absi",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "kick": 756146
+    }
+  },
+  {
+    "slug": "abodby-1199a2",
+    "name": "Abodby",
+    "profession": "streamer",
+    "category": "streamer",
+    "gender": "unspecified",
+    "source_type": "csv_import",
+    "status": "active",
+    "visibility": "public",
+    "headshot_path": "",
+    "headshot_url": "",
+    "headshot_source": "",
+    "headshot_license": "pending",
+    "headshot_attribution": "",
+    "platform_handles": {
+      "kick": 746188
+    }
+  }
+]

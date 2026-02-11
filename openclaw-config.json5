@@ -1,0 +1,48 @@
+// OpenClaw configuration for the trending report bot.
+// Merge these settings into your ~/.openclaw/openclaw.json
+// (the setup.sh script does this automatically)
+//
+// This file is JSON5 (comments allowed) for readability.
+
+{
+  // ── Browser (required for scraping X, Instagram, TikTok) ──
+  "browser": {
+    "enabled": true,
+    "defaultProfile": "openclaw",
+    "headless": false,
+    "profiles": {
+      "openclaw": {
+        "cdpPort": 18800,
+        "color": "#FF4500"
+      }
+    }
+  },
+
+  // ── WhatsApp channel ──
+  "channels": {
+    "whatsapp": {
+      "dmPolicy": "allowlist",
+      "allowFrom": ["+YOUR_WHATSAPP_NUMBER"]
+      // After setup, link via: openclaw channels login
+    }
+  },
+
+  // ── Web search (supplementary trend data) ──
+  "tools": {
+    "web": {
+      "search": {
+        "enabled": true,
+        "provider": "brave"
+        // Set your API key via: openclaw configure --section web
+      },
+      "fetch": {
+        "enabled": true
+      }
+    }
+  },
+
+  // ── Cron (the daily scheduler) ──
+  "cron": {
+    "enabled": true
+  }
+}
