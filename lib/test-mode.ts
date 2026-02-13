@@ -24,14 +24,11 @@ export function isTestModeEnabled(): boolean {
     return process.env.NEXT_PUBLIC_ENABLE_TEST_MODE === "true";
   }
   // Client-side fallback: check the public env var injected by Next.js
-  return (
-    (typeof window !== "undefined" &&
-      // eslint-disable-next-line @typescript-eslint/no-explicit-any
-      (window as any).__NEXT_DATA__?.runtimeConfig?.NEXT_PUBLIC_ENABLE_TEST_MODE === "true") ||
-    // In dev builds, Next.js inlines NEXT_PUBLIC_ vars
-    process.env.NEXT_PUBLIC_ENABLE_TEST_MODE === "true" ||
-    process.env.NODE_ENV === "development"
-  );
+  if (typeof window !== "undefined") {
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    return (window as any).__NEXT_DATA__?.runtimeConfig?.NEXT_PUBLIC_ENABLE_TEST_MODE === "true";
+  }
+  return false;
 }
 
 // ─── Client helpers ─────────────────────────────────────────
