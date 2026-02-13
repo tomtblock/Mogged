@@ -43,4 +43,7 @@ next-env.d.ts
 seed-people-db/_intermediate/
 seed-people-db/output/
 seed-people-db/pipeline.log
+seed-people-db/scraper.log
+seed-people-db/scraper_output.log
+seed-people-db/scraper_state.json
 seed-people-db/.env

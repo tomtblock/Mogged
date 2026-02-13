@@ -37,42 +37,8 @@ export interface Person {
   headshot_url: string | null;
   headshot_attribution: string | null;
   headshot_license: string | null;
-  // Social handles
-  instagram_handle: string | null;
-  tiktok_handle: string | null;
-  youtube_handle: string | null;
-  kick_handle: string | null;
-  x_handle: string | null;
-  // Follower counts
-  instagram_followers: number;
-  tiktok_followers: number;
-  youtube_subscribers: number;
-  total_followers: number;
-  // Brainrot intelligence
-  brainrot_score: number | null;
-  content_tags: string[];
-  relationships: PersonRelationship[];
-  discovery_source: string | null;
-  bio_summary: string | null;
-  followers_updated_at: string | null;
-  // Timestamps
   created_at: string;
   updated_at: string;
-}
-
-export interface PersonRelationship {
-  person: string; // slug of related person
-  type:
-    | "collab_partner"
-    | "rival"
-    | "friend"
-    | "sibling"
-    | "boxing_opponent"
-    | "podcast_guest"
-    | "same_org"
-    | "mentor"
-    | "ex_partner";
-  strength: "strong" | "moderate" | "weak";
 }
 
 export interface Vote {
