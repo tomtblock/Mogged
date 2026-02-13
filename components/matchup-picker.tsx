@@ -267,7 +267,7 @@ export function MatchupPicker({ open, onClose, onSelect }: MatchupPickerProps) {
                 {results.map((person) => {
                   const isAlreadyPicked =
                     (leftPick && person.id === leftPick.id) ||
-                    (rightPick && person.id === rightPick.id);
+                    (rightPick && person.id === rightPick.id) || false;
 
                   return (
                     <button
